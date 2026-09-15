@@ -1,3 +1,12 @@
+#Prompt: I’m writing a Python program to help my friend
+# track the amount of energy drinks he drinks in a week.
+# Keep the code simple and easy to use for most people.
+# You should be able to input how many energy drinks they drank on which
+# specific day of the week, and the output should tell them possible health
+# effects that amount of caffeine could cause. It should also have text
+# at the end recommending the number of energy drinks a person should
+# drink in a week. Please return Python code with comments explaining each step.
+
 # Define the days of the week
 days_of_week = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
 
